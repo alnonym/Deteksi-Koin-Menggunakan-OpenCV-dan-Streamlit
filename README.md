@@ -1,8 +1,8 @@
 # Deteksi-Koin-Menggunakan-OpenCV-dan-Streamlit
 Aplikasi berbasis web untuk mendeteksi dan menghitung jumlah koin pada gambar menggunakan metode pengolahan citra digital dengan OpenCV dan Streamlit.
 
-## Demo Online
-(Tambahkan link setelah deploy ke Streamlit Cloud)
+## Link Streamlit
+https://deteksi-koin-menggunakan-opencv-dan-app-gwww3wdepvsqofga7oc4pn.streamlit.app/
 
 ## Fitur
 - Upload gambar koin
@@ -32,8 +32,7 @@ Tambahkan screenshot hasil aplikasi:
 
 ## Cara Menjalankan
 ### 1. Clone repository
-https://github.com/alnonym/Deteksi-Koin-Menggunakan-OpenCV-dan-Streamlit.git
-cd Deteksi koin
+https://github.com/alnonym/Deteksi-Koin-Menggunakan-OpenCV-dan-Streamlit
 ### 2. Install dependencies
 pip install -r requirements.txt
 ### 3. Jalankan aplikasi
