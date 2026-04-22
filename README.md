@@ -1,5 +1,7 @@
 # Deteksi-Koin-Menggunakan-OpenCV-dan-Streamlit
 Aplikasi berbasis web untuk mendeteksi dan menghitung jumlah koin pada gambar menggunakan metode pengolahan citra digital dengan OpenCV dan Streamlit.
+Mengapa memilih gambar koin?
+Disini saya ingin menerapkan berbagai metode yang telah dijelaskan.
 
 ## Link Streamlit
 https://deteksi-koin-menggunakan-opencv-dan-app-gwww3wdepvsqofga7oc4pn.streamlit.app/
@@ -14,13 +16,13 @@ https://deteksi-koin-menggunakan-opencv-dan-app-gwww3wdepvsqofga7oc4pn.streamlit
 
 ## Teknologi
 - Python
-- OpenCV
-- Streamlit
-- NumPy
-- Pillow
+- OpenCV untuk pengolahan citra
+- Streamlit untuk tampilan web
+- NumPy untuk manipulasi array
+- Pillow untuk membaca gambar
 
 ## Preview
-Tambahkan screenshot hasil aplikasi:
+Screenshot hasil aplikasi:
 ### Gambar Asli
 ![Asli](assets/asli.png)
 ### Threshold
